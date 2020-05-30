@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+title: "GSOC20 Blog Series"
+author: "Shekhar Shukla"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/24sharkS\">@24sharkS</a></b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -26,9 +26,8 @@ navigation:
   - {file: "README.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+#  - {title: Mail, icon: envelope, url: "mailto:nk.shekhar24@gmail.com"}
+#  - {title: Github, icon: github, url: "https://github.com/24sharkS/contrast"}
 
 comments:
 #  disqus_shortname: ""      # see https://disqus.com/
